@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiqrithoybah&label=Profile%20views&color=0e75b6&style=flat" alt="fiqrithoybah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiqrithoybah" alt="fiqrithoybah" /></a> </p>
 
 - 🔭 I’m currently working on **Front End Developer**
 
