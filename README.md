@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Front End Developer**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS / Laravel**
 
 - 🤝 I’m looking for help with **Node JS**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.fiqri02@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact **Enjoy Code Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
