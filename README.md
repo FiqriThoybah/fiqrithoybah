@@ -7,6 +7,12 @@
 - 🔭 I’m currently working as **Front End Developer**
 
 - 🌱 I’m currently learning **Next JS / Typescript**
+ 
+- 👨‍💻 You can also check out my portfoli at o [https://fiqrithoybah.github.io/](https://fiqrithoybah.github.io/)
+
+- 📫 How to reach me **dev.fiqri02@gmail.com**
+
+- ⚡ Fun fact **Enjoy Code Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
