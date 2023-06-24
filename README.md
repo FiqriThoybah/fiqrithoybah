@@ -4,18 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiqrithoybah&label=Profile%20views&color=0e75b6&style=flat" alt="fiqrithoybah" /> </p>
 
-
 - 🔭 I’m currently working as **Front End Developer**
 
-- 🌱 I’m currently learning **Next JS / Laravel**
-
-- 🤝 I’m looking for help with **Node JS**
-
-- 👨‍💻 You can also check out my portfoli at o [https://fiqrithoybah.github.io/](https://fiqrithoybah.github.io/)
-
-- 📫 How to reach me **dev.fiqri02@gmail.com**
-
-- ⚡ Fun fact **Enjoy Code Learning**
+- 🌱 I’m currently learning **Next JS / Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
