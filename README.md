@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiqrithoybah&label=Profile%20views&color=0e75b6&style=flat" alt="fiqrithoybah" /> </p>
 
 
-- 🔭 I’m currently working on **Front End Developer**
+- 🔭 I’m currently working as **Front End Developer**
 
 - 🌱 I’m currently learning **Next JS / Laravel**
 
